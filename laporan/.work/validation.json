@@ -1,0 +1,28 @@
+{
+  "passive_rows": 428,
+  "passive_5ghz_rows": 276,
+  "target_5ghz_rows": 75,
+  "points": 12,
+  "active_points": 6,
+  "roaming_samples": 145,
+  "roaming_transitions": 3,
+  "roaming_empty_bssid": 2,
+  "active_ssid_from_passive_bssid_match": "eduroam",
+  "rssi_independently_recomputed": true,
+  "sources_sha256": {
+    "data/passive_L8.csv": "5264e0d8d8d25549a7b49b12c1e4ab3fd1c952245920f179c64cc0f40a05a89f",
+    "data/active_L8.csv": "2a657984b5f5e07af820c5bfbaea193de7b7ff6e83c2a0ffba7e368216186419",
+    "raw/roaming_L8.csv": "2b0f47cba29de30e2f142f8184056807dd172aed06d9f085c152f67c7f085f5a",
+    "output/L8_titik.csv": "e1a699dcc9e31ed7136d96b1fdacb54f7c9858bcf73fcae31e923247a01c1f03",
+    "output/L8_ap.csv": "2a375a091f49a0dfa3eea3528a581dd8b04b3ca19c9f40648d0c3544f3ef3510",
+    "denah/AP-L8-01.jpeg": "b623cc6a28fe6461ba63cf0cc8120bd0a4382c71b5c94ab6b116df056611308c",
+    "denah/AP-L8-02_dan_AP-L8-03.png": "1dcdba01da0f60b19fc6a3995f757fbfb34ad83f45648ab520141bbc60bea45e"
+  },
+  "output_docx": "/home/parasite/Kuliah/JARNIR/kelompok4_L8/laporan/Laporan_Survei_WiFi_L8_Kelompok4.docx",
+  "pdf_pages": 13,
+  "main_pages": 11,
+  "appendix_pages": 2,
+  "all_pages_visually_checked": true,
+  "embedded_images": 7,
+  "final_pdf_sha256": "1ea4cd4b7b3aacaa0d022f166465625ad51c0ceb1ba270df4dd891b6a40b9898"
+}

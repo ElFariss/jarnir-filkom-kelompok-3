@@ -1,0 +1,15 @@
+titik_id,lokasi,status,catatan
+L8-001,koridor kanan bawah,sudah screenshot analyzer,-48 dBm CH40
+L8-002,koridor kanan atas,sudah screenshot analyzer,-50 dBm CH40
+L8-003,koridor atas tengah,sudah screenshot analyzer,-55 dBm CH40
+L8-004,koridor atas kiri,sudah screenshot analyzer,-54 dBm CH40
+L8-005,koridor tengah kiri,sudah screenshot analyzer,-52 dBm CH40
+L8-006,koridor bawah kiri dekat tangga,sudah screenshot analyzer,-52 dBm CH40
+L8-007,koridor bawah tengah,sudah screenshot analyzer,-50 dBm CH40
+L8-008,Lab RPL tengah (posisi kamu sekarang),ambil sekarang,screenshot + catat BSSID
+L8-009,Lab RPL pojok terjauh dari AP,ambil sekarang,screenshot + catat BSSID
+L8-010,depan pintu tiap ruang terkunci (satu per pintu),belum,catat pintu Buka/Tutup
+L8-011,depan toilet,boleh cepat,catat orang
+L8-012,tangga bawah,boleh,catat redaman tangga
+L8-013,depan lift,boleh,catat
+L8-014,L8-015,densifikasi koridor,isi sela 5m antar titik lama

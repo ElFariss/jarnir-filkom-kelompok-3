@@ -1,0 +1,18 @@
+Ringkasan analisis kelompok4_L8/output/L8 (band 5 GHz, SSID WiFi-UB.x)
+Jumlah titik ukur          : 12
+RSSI >= -67 dBm (baik)     : 91.7%
+RSSI >= -70 dBm            : 91.7%
+RSSI <  -80 dBm (blank)    : 0.0%
+AP cadangan >= -75 dBm     : 83.3%
+CCI > 2 radio             : 0.0%
+RSSI median / min          : -53.6 / -73.0 dBm
+Radio SSID kampus terdeteksi: 3, kanal: [40, 48, 161]
+
+Status titik:
+  BAIK      : 10
+  PERHATIAN : 1
+  BURUK     : 1
+  KRITIS    : 0
+
+Area lemah:
+  A1: 1 titik (L8-011), RSSI rata -73.0, BURUK, penyebab dominan: cakupan lemah

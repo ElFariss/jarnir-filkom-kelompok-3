@@ -1,0 +1,13 @@
+titik_id,lantai,x_px,y_px,keterangan
+L8-001,8,820,735,koridor kanan bawah
+L8-002,8,820,165,koridor kanan atas
+L8-003,8,620,165,koridor atas tengah
+L8-004,8,300,165,koridor atas kiri
+L8-005,8,300,395,koridor tengah kiri
+L8-006,8,300,670,koridor bawah kiri dekat tangga
+L8-007,8,580,670,koridor bawah tengah
+L8-008,8,545,465,Lab RPL tengah
+L8-009,8,165,505,depan lift kiri
+L8-010,8,165,365,lift kanan
+L8-011,8,80,155,dalam toilet
+L8-012,8,820,450,bawah AP-L8-02 koridor kanan

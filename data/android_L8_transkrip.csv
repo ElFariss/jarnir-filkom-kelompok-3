@@ -1,0 +1,78 @@
+titik_id,ssid,bssid,channel,rssi_dbm,catatan
+L8-001,WiFi-UB.x,00:E6:3A:90:A9:5C,40,-48,analyzer CH40 20MHz
+L8-001,eduroam,00:E6:3A:10:A9:5C,40,-54,analyzer
+L8-001,FILKOM EVENT,00:E6:3A:50:A9:5C,40,-60,analyzer
+L8-001,eduroam,00:E6:3A:10:EA:5C,48,-57,analyzer CH48 20MHz
+L8-001,FILKOM EVENT,00:E6:3A:50:EA:5C,48,-61,analyzer
+L8-001,WiFi-UB.x,00:E6:3A:90:EA:5C,48,-67,analyzer
+L8-002,eduroam,00:E6:3A:10:A9:5C,40,-48,analyzer
+L8-002,WiFi-UB.x,00:E6:3A:90:A9:5C,40,-50,analyzer
+L8-002,FILKOM EVENT,00:E6:3A:50:A9:5C,40,-53,analyzer
+L8-002,WiFi-UB.x,00:E6:3A:90:EA:5C,48,-57,analyzer
+L8-002,FILKOM EVENT,00:E6:3A:50:EA:5C,48,-62,analyzer
+L8-002,eduroam,00:E6:3A:10:EA:5C,48,-65,analyzer
+L8-003,eduroam,00:E6:3A:10:A9:5C,40,-50,analyzer
+L8-003,FILKOM EVENT,00:E6:3A:50:A9:5C,40,-51,analyzer
+L8-003,WiFi-UB.x,00:E6:3A:90:A9:5C,40,-55,analyzer
+L8-003,eduroam,00:E6:3A:10:EA:5C,48,-59,analyzer
+L8-003,WiFi-UB.x,00:E6:3A:90:EA:5C,48,-62,analyzer
+L8-003,FILKOM EVENT,00:E6:3A:50:EA:5C,48,-69,analyzer
+L8-004,eduroam,00:E6:3A:10:A9:5C,40,-49,analyzer
+L8-004,WiFi-UB.x,00:E6:3A:90:A9:5C,40,-54,analyzer
+L8-004,eduroam,00:E6:3A:10:EA:5C,48,-55,analyzer
+L8-004,FILKOM EVENT,00:E6:3A:50:A9:5C,40,-57,analyzer
+L8-004,WiFi-UB.x,00:E6:3A:90:EA:5C,48,-60,analyzer
+L8-004,FILKOM EVENT,00:E6:3A:50:EA:5C,48,-65,analyzer
+L8-005,FILKOM EVENT,00:E6:3A:50:A9:5C,40,-52,analyzer
+L8-005,WiFi-UB.x,00:E6:3A:90:A9:5C,40,-52,analyzer
+L8-005,eduroam,00:E6:3A:10:A9:5C,40,-54,analyzer
+L8-005,WiFi-UB.x,00:E6:3A:90:EA:5C,48,-57,analyzer
+L8-005,eduroam,00:E6:3A:10:EA:5C,48,-58,analyzer
+L8-005,FILKOM EVENT,00:E6:3A:50:EA:5C,48,-62,analyzer
+L8-006,eduroam,00:E6:3A:10:A9:5C,40,-49,analyzer
+L8-006,WiFi-UB.x,00:E6:3A:90:A9:5C,40,-52,analyzer
+L8-006,FILKOM EVENT,00:E6:3A:50:A9:5C,40,-59,analyzer
+L8-006,FILKOM EVENT,00:E6:3A:50:EA:5C,48,-61,analyzer
+L8-006,eduroam,00:E6:3A:10:EA:5C,48,-63,analyzer
+L8-006,WiFi-UB.x,00:E6:3A:90:EA:5C,48,-63,analyzer
+L8-007,WiFi-UB.x,00:E6:3A:90:A9:5C,40,-50,analyzer
+L8-007,eduroam,00:E6:3A:10:A9:5C,40,-50,analyzer
+L8-007,FILKOM EVENT,00:E6:3A:50:A9:5C,40,-53,analyzer
+L8-007,WiFi-UB.x,00:E6:3A:90:EA:5C,48,-55,analyzer
+L8-007,FILKOM EVENT,00:E6:3A:50:EA:5C,48,-58,analyzer
+L8-007,eduroam,00:E6:3A:10:EA:5C,48,-67,analyzer
+L8-008,eduroam,00:E6:3A:10:A9:5C,48,-52,inside RPL
+L8-008,WiFi-UB.x,00:E6:3A:90:A9:5C,48,-65,inside RPL
+L8-008,FILKOM EVENT,00:E6:3A:50:A9:5C,48,-64,inside RPL
+L8-008,WiFi-UB.x,00:E6:3A:90:A9:5C,40,-64,inside RPL CH40
+L8-008,FILKOM EVENT,00:E6:3A:50:A9:5C,40,-57,inside RPL
+L8-008,eduroam,00:E6:3A:10:A9:5C,40,-59,inside RPL
+L8-008,eduroam,00:E6:3A:10:EB:0C,161,-62,inside RPL CH161 floor bleed?
+L8-009,WiFi-UB.x,00:E6:3A:90:A9:5C,40,-52,infront left lift
+L8-009,WiFi-UB.x,00:E6:3A:90:EA:5C,48,-54,infront left lift
+L8-009,eduroam,00:E6:3A:10:EA:5C,48,-56,infront left lift
+L8-009,FILKOM EVENT,00:E6:3A:50:EA:5C,48,-58,infront left lift
+L8-009,FILKOM EVENT,00:E6:3A:50:A9:5C,40,-60,infront left lift
+L8-009,eduroam,00:E6:3A:10:A9:5C,40,-62,infront left lift
+L8-009,WiFi-UB.x,00:E6:3A:90:EB:0C,161,-64,infront left lift CH161
+L8-010,eduroam,00:E6:3A:10:EA:5C,48,-50,lift right side (renamed L8-010)
+L8-010,FILKOM EVENT,00:E6:3A:50:EA:5C,48,-51,lift right side (renamed L8-010)
+L8-010,FILKOM EVENT,00:E6:3A:50:A9:5C,40,-53,lift right side (renamed L8-010)
+L8-010,WiFi-UB.x,00:E6:3A:90:EA:5C,48,-56,lift right side (renamed L8-010)
+L8-010,eduroam,00:E6:3A:10:A9:5C,40,-57,lift right side (renamed L8-010)
+L8-010,WiFi-UB.x,00:E6:3A:90:A9:5C,40,-57,lift right side (renamed L8-010)
+L8-010,WiFi-UB.x,00:E6:3A:90:EB:0C,161,-70,lift right side (renamed L8-010)
+L8-011,FILKOM EVENT,00:E6:3A:50:EA:5C,48,-51,bathroom (renamed L8-011)
+L8-011,WiFi-UB.x,00:E6:3A:90:A9:5C,40,-52,bathroom (renamed L8-011)
+L8-011,WiFi-UB.x,00:E6:3A:90:EA:5C,48,-53,bathroom (renamed L8-011)
+L8-011,FILKOM EVENT,00:E6:3A:50:A9:5C,40,-58,bathroom (renamed L8-011)
+L8-011,eduroam,00:E6:3A:10:EB:0C,161,-66,bathroom (renamed L8-011) CH161
+L8-011,eduroam,00:E6:3A:10:A9:5C,40,-71,bathroom (renamed L8-011) CH40 eduroam low
+L8-011,eduroam,00:E6:3A:10:EA:5C,48,-71,bathroom (renamed L8-011) CH48 eduroam low
+L8-012,eduroam,00:E6:3A:10:EB:0C,161,-54,under AP-L8-02 (renamed L8-012) L8-02 CH161 strongest
+L8-012,FILKOM EVENT,00:E6:3A:50:EB:0C,161,-55,under AP-L8-02 (renamed L8-012) L8-02
+L8-012,WiFi-UB.x,00:E6:3A:90:EB:0C,161,-55,under AP-L8-02 (renamed L8-012) L8-02
+L8-012,WiFi-UB.x,00:E6:3A:90:EA:5C,48,-61,under AP-L8-02 (renamed L8-012) L8-02
+L8-012,FILKOM EVENT,00:E6:3A:50:EA:5C,48,-64,under AP-L8-02 (renamed L8-012) L8-02
+L8-012,eduroam,00:E6:3A:10:EA:5C,48,-69,under AP-L8-02 (renamed L8-012) L8-02
+L8-012,FILKOM EVENT,00:E6:3A:50:A9:5C,40,-79,under AP-L8-02 (renamed L8-012) L8-02 CH40 very low
